@@ -1,4 +1,5 @@
 I have created one demo spring boot project and deploy into the docker step by step
+here we have used simple api using spring boot and in docker we have just used the openjdk img pull that img and create the container for that and run our project into that container.
 
 ## Using Cmd
 ### 1.docker search openjdk // it will search the jdk
